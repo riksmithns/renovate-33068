@@ -1,1 +1,1 @@
-FROM public.ecr.aws/docker/library/httpd:2.4.61-alpine
+FROM public.ecr.aws/docker/library/eclipse-temurin:17-jre
