@@ -1,2 +1,2 @@
-FROM public.ecr.aws/docker/library/eclipse-temurin:17.0.11_9-jre-alpine
+FROM public.ecr.aws/docker/library/eclipse-temurin:23.0.1_11-jre-alpine
 
