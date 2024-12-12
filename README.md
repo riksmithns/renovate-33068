@@ -1,17 +1,14 @@
-# minimal-reproduction-template
-
-First, read the [Renovate minimal reproduction instructions](https://github.com/renovatebot/renovate/blob/main/docs/development/minimal-reproductions.md).
-
-Then replace the current `h1` with the Renovate Issue/Discussion number.
+# 33068
 
 ## Current behavior
 
-Explain the current behavior here.
+Renovate does not offer an update for the docker container tag.
+Shows manifest parsing error in the logs.
 
 ## Expected behavior
 
-Explain the expected behavior here.
+Renovate does offer an update for the docker container tag
 
 ## Link to the Renovate issue or Discussion
 
-Put your link to the Renovate issue or Discussion here.
+[Put your link to the Renovate issue or Discussion here.](https://github.com/renovatebot/renovate/discussions/33068)
